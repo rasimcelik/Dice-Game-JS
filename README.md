@@ -14,6 +14,8 @@ A simple dice game where two players take turns rolling a dice to accumulate poi
 
 ## How to Play
 
+`https://onedice.netlify.app/`
+
 1. Open the `welcome.html` file in a web browser.
 2. Player One (Player 1) starts the game with an initial score of 0.
 3. Click the "Roll Dice" button to roll the dice. The current score will be updated based on the dice roll.
@@ -30,7 +32,7 @@ A simple dice game where two players take turns rolling a dice to accumulate poi
 
 ## File Structure
 
-- `welcome.html`: The welcoming page that displays the welcome interface.
+- `index.html`: The welcoming page that displays the welcome interface.
 - `game.html`: The main HTML file that displays the game interface.
 - `style.css`: The CSS file that styles the game elements.
 - `app.js`: The JavaScript file that contains the game logic.
